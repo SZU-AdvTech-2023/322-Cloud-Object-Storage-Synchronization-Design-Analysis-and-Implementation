@@ -1,0 +1,9 @@
+@article{REPO322,
+    author = "Chen, Fei and Li, Zhipeng and Jiang, Changkun and Xiang, Tao and Yang, Yuanyuan",
+    journal = "IEEE Transactions on Parallel and Distributed Systems",
+    number = "12",
+    pages = "4295-4310",
+    title = "{Cloud Object Storage Synchronization: Design, Analysis, and Implementation}",
+    volume = "33",
+    year = "2022"
+}
